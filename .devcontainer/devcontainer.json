@@ -1,0 +1,17 @@
+{
+    "name": "DS105 Development Environment",
+    "dockerFile": "", // your docker file
+    "runArgs" : [
+      // add your run arguments here for Docker here
+    ],
+
+    "customizations": {
+      // Configure properties specific to VS Code.
+      "vscode": {
+        "settings": {},
+        "extensions": [
+          // add your extensions here
+        ]
+      }
+    }
+}
