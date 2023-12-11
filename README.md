@@ -5,6 +5,18 @@ Welcome to 2023-2024 Data Science with Deep Learning
 This is the 5th revision of the graduate course in Data Science - a 11 lecture & hands-on labs journey in the hot field that combines programming, math, statistics, bio/physics in order to provide the today world with the most advanced information technologies: from recommender systems to chatbots, from predictive analytics to visual scene understanding and many others.
 
 
+## Calendar:
+
+| Date | Course | Hands-on | Paper present. | Project present. |
+| --- | --- | --- | --- | --- |
+| 2023-12-18 | X | X | X | - |
+| 2024-01-08 | X | X | X | X |
+| 2024-01-15 | X | X | X | X |
+| 2024-01-22 | - | - | X | X |
+| 2024-01-29 | - | - | - | X |
+
+
+
 
 ## Operational and logistics stuff
  - we meet each Monday 16h00-20h00 on Teams!
