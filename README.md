@@ -10,9 +10,9 @@ This is the 5th revision of the graduate course in Data Science - a 11 lecture &
 | Date | Course | Hands-on | Paper present. | Project present. |
 | --- | --- | --- | --- | --- |
 | 2023-12-18 | X | X | X | - |
-| 2024-01-08 | X | X | X | X |
-| 2024-01-15 | X | X | X | X |
-| 2024-01-22 | - | - | X | X |
+| 2024-01-08 | X | X | X | x |
+| 2024-01-15 | X | X | X | x |
+| 2024-01-22 | - | - | x | X |
 | 2024-01-29 | - | - | - | X |
 
 
